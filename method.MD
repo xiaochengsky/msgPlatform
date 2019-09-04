@@ -31,9 +31,9 @@ Svr: golang + MySQL<br>
 
 #### **2.4.2 数据格式**
 1)企业微信推送信息中附加的url:<br>
-[KM](ttp://127.0.0.1:10000/km_request)<br>
-[WiKi](ttp://127.0.0.1:10000/wiki_request)<br>
-[Mail](ttp://127.0.0.1:10000/mail_request)<br>
+[KM](http://127.0.0.1:10000/km_request)<br>
+[WiKi](http://127.0.0.1:10000/wiki_request)<br>
+[Mail](http://127.0.0.1:10000/mail_request)<br>
 注:上述三个链接后期是服务器链接<br>
 
 2)JSON:<br>
